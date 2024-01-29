@@ -7,13 +7,13 @@ import Home from "./components/Home";
 import Resources from "./components/Resources";
 import Card from "./components/Card";
 import EventsData from "./components/EventsData";
-import Particlejs from "./Particlejs";
+//import Particlejs from "./Particlejs";
 
 function App() {
   return (
     <Router>
       <Header />
-      <Particlejs />
+      {/* <Particlejs /> */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/" element={<Card />} />

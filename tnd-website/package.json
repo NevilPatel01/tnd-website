@@ -11,16 +11,13 @@
   },
   "dependencies": {
     "@react-aria/interactions": "^3.20.1",
-    "@tsparticles/react": "^3.0.0",
     "animate.css": "^4.1.1",
     "framer-motion": "^10.18.0",
     "react": "^18.2.0",
     "react-card-flip": "^1.2.2",
     "react-dom": "^18.2.0",
-    "react-particles": "^2.12.2",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.21.3",
-    "react-tsparticles": "^2.12.2",
     "typed.js": "^2.1.0"
   },
   "devDependencies": {

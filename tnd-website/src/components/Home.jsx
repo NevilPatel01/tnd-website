@@ -2,7 +2,6 @@ import { useEffect } from "react";
 import Typed from "typed.js";
 import About from "./About";
 import Contact from "./Contact";
-import Particlesjs from "../Particlejs";
 
 const Home = () => {
   useEffect(() => {
@@ -31,7 +30,6 @@ const Home = () => {
     <>
       <div className="relative min-h-screen flex flex-col bg-gradient-to-r from-gray-900 to-green-950 overflow-hidden">
         {/* Background GIF */}
-        <Particlesjs />
         <div className="flex-1 flex overflow-hidden">
           {/* Left Side - Typed Text */}
           <div className="flex-1 flex items-center justify-center hover:scale-110 text-center text-white ">
