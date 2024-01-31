@@ -28,19 +28,17 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the repository:
 
-```git clone https://github.com/NevilPatel01/tnd-website.git
-
-```
+```git clone https://github.com/NevilPatel01/tnd-website.git```
 
 ### Install dependencies:
 
-`npm install`
+```npm install```
 
 ## Usage
 
 ### Start the development server:
 
-`npm run dev`
+```npm run dev```
 
 ## Contributing
 
